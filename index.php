@@ -51,5 +51,5 @@ ob_clean();
 
 require_once( 'BFIGitHubPluginUploader.php' );
 if ( is_admin() ) {
-    new BFIGitHubPluginUpdater( __FILE__, 'myGitHubUsername', "Repo-Name" );
+    new BFIGitHubPluginUpdater( __FILE__, 'bfintal', "BFI-Core" );
 }
