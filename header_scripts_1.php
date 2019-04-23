@@ -5,7 +5,7 @@ function add_structured_data_Schema() {
 
 
     /*     * ****
-     * Organization Schemas
+     * Organization Schemas 741
      */
 
     $website_name = !empty(get_option('allSchema_website_name')) ? get_option('allSchema_website_name') : '';
