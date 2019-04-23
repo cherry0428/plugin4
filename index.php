@@ -1,7 +1,6 @@
 <?php 
 /*
-  Plugin Name: BSD Structure Data00011
-  Plugin URI:
+  Plugin Name: BSD Structure Data
   Description: Simple WordPress plugin for  Structured Data
   Version: 1.0
   Author: BSD Team
